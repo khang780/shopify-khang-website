@@ -25,27 +25,13 @@
             "heading": "About Us",
             "heading_size": "h1"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "text",
-        "heading",
-        "button"
+        "heading"
       ],
-      "custom_css": [
-        "p {background: black;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/Khang_Logo.png",
         "image_overlay_opacity": 0,
@@ -60,272 +46,53 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "multirow_4mmLAi": {
+      "type": "multirow",
       "blocks": {
-        "text": {
-          "type": "text",
+        "row_e4mxTW": {
+          "type": "row",
           "settings": {
-            "text": "<p>Outstanding service | Exclusive pricing | Industry expertise</p>"
+            "image": "shopify://shop_images/Khang_Founder.jpg",
+            "caption": "",
+            "heading": "<strong>ABOUT KHANG</strong>",
+            "text": "<p><strong>KHANG is a house of Lao textile and modern fashion, founded by a master of ancient silk, and who is also Lao’s leading fashion designer, Viengkham Nanthavongdouangsy. Her works have received many international awards for excellent quality and design.</strong></p><p><strong>All textiles of KHANG are produced in the traditional Lao way; the ageless methods of making cloths and natural dyeing have been kept alive here. With the creations of KHANG you will find modern designs that are crafted using the ancient weaving techniques, and only natural materials are selected for its production.</strong></p><p><strong>KHANG embraces the sustainability within its work; it contributes creating jobs in different communities - from farmers to weavers and other professions in the textiles and fashion industry.</strong></p><p><strong>Handing down the ancient technical know-how of textiles production is an important activity of KHANG. Over the past 20 years, Viengkham has trained many hundreds of people, both locally and internationally, on weaving and natural dyeing, and she has written and published a number of books on Lao textiles.</strong></p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "text"
+        "row_e4mxTW"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 4
-      }
-    },
-    "featured_collection1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Proven bestsellers",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 10,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 52
-      }
-    },
-    "collection_list": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection5": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection1",
-        "featured_collection2",
-        "featured_collection3",
-        "featured_collection4",
-        "featured_collection5"
-      ],
-      "settings": {
-        "title": "Shop our top categories",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-4",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 60
-      }
-    },
-    "multicolumn1": {
-      "type": "multicolumn",
-      "blocks": {
-        "column7": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column8": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column9": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        },
-        "column10": {
-          "type": "column",
-          "settings": {
-            "title": "Add a customer testimonial",
-            "text": "",
-            "link_label": "Shop now",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column7",
-        "column8",
-        "column9",
-        "column10"
-      ],
-      "settings": {
-        "title": "",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 68,
-        "padding_bottom": 68
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "featured_collection2": {
-      "type": "featured-collection",
+    "custom_liquid_8ptRQE": {
+      "type": "custom-liquid",
       "settings": {
-        "title": "New arrivals",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 6,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "custom_liquid": "<div class=\"features\">\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/shipping.png?v=1738642432\" alt=\"Free Shipping\">\n            <span class=\"featureTitle\">FREE SHIPPING</span>\n            <span class=\"featureDesc\">Free domestic shipping in Laos on all orders. Worldwide shipping available with additional fees.</span>\n        </div>\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/return.png?v=1738642433\" alt=\"7 Days Return\">\n            <span class=\"featureTitle\">7 DAYS RETURN</span>\n            <span class=\"featureDesc\">Returns accepted within 7 days for unused and undamaged items.</span>\n        </div>\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/contact.png?v=1738642433\" alt=\"Contact Us\">\n            <span class=\"featureTitle\">CONTACT US!</span>\n            <span class=\"featureDesc\">Keep in touch via email and support system.</span>\n        </div>\n    </div>\n<style>\n  .features {\n  background-color: #f0f0f0; \n  clip-path: polygon(0 0, 100% 10%, 100% 85%, 0% 100%);\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 10px; /* Adds spacing between features */\n  padding: 50px;\n  flex-wrap: wrap; /* Ensures wrapping on smaller screens */\n}\n\n.features {\n  margin-top: -50px; /* Adjust this value to control how much it overlaps */\n  padding-top: 50px; /* Optional: This helps to maintain the content positioning */\n}\n\n.feature {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  text-align: center;\n  width: 30%; /* Ensures consistent sizing */\n  min-width: 200px; /* Prevents features from getting too small */\n}\n\n.featureIcon {\n  width: 50px;\n  height: 50px;\n}\n\n.featureTitle {\n  font-size: 20px;\n  font-weight: 600;\n  margin: 20px;\n}\n\n.featureDesc {\n  color: gray;\n  width: 50%;\n  height: 100px;\n}\n</style>",
         "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "bulk",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn2": {
-      "type": "multicolumn",
-      "blocks": {
-        "column11": {
-          "type": "column",
-          "settings": {
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
-            "link_label": "Read now",
-            "link": ""
-          }
-        },
-        "column12": {
-          "type": "column",
-          "settings": {
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
-            "link_label": "Read now",
-            "link": ""
-          }
-        },
-        "column13": {
-          "type": "column",
-          "settings": {
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
-            "link_label": "Read now",
-            "link": ""
-          }
-        },
-        "column14": {
-          "type": "column",
-          "settings": {
-            "title": "Add educational content",
-            "text": "<p>Provide content for your customers that sets their business up for success</p>",
-            "link_label": "Read now",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column11",
-        "column12",
-        "column13",
-        "column14"
-      ],
-      "settings": {
-        "title": "You're set up for success",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 48
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "image_banner",
-    "rich_text",
-    "featured_collection1",
-    "collection_list",
-    "multicolumn1",
-    "featured_collection2",
-    "multicolumn2"
+    "multirow_4mmLAi",
+    "custom_liquid_8ptRQE"
   ]
 }
