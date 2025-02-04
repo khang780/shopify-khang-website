@@ -18,43 +18,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Us",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "text",
-        "heading"
-      ],
-      "custom_css": [],
-      "settings": {
-        "image": "shopify://shop_images/Khang_Logo.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-5",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "custom_liquid_JqHchq": {
       "type": "custom-liquid",
       "settings": {
@@ -76,7 +39,6 @@
   },
   "order": [
     "custom_liquid_GKzP7W",
-    "image_banner",
     "custom_liquid_JqHchq",
     "custom_liquid_8ptRQE"
   ]
