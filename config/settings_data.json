@@ -10,7 +10,7 @@
 {
   "current": {
     "logo": "shopify://shop_images/Khang_Logo.png",
-    "logo_width": 70,
+    "logo_width": 90,
     "type_header_font": "dm_sans_n5",
     "heading_scale": 105,
     "type_body_font": "jost_n4",
@@ -200,11 +200,11 @@
       },
       "scheme-fb4803c1-7844-47a0-9353-f7e7626dc029": {
         "settings": {
-          "background": "#f4f4f4",
-          "background_gradient": "",
+          "background": "#ffffff",
+          "background_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
           "text": "#ffffff",
-          "button": "#b7aca2",
-          "button_label": "#262626",
+          "button": "#001128",
+          "button_label": "#001128",
           "secondary_button_label": "#001128",
           "shadow": "#001128"
         }

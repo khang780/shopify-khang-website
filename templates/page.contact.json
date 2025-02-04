@@ -1,35 +1,152 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "image_banner": {
+    "image_banner_NQnN9X": {
       "type": "image-banner",
+      "blocks": {
+        "buttons_Ext3Mk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Check It Out!",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_Ext3Mk"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Image_banner_2x_8.png",
-        "image_overlay_opacity": 20,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-left",
+        "image": "shopify://shop_images/Publication_cover.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "top-right",
         "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "desktop_content_alignment": "right",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
-    "form": {
-      "type": "contact-form",
+    "multirow_WaTeNL": {
+      "type": "multirow",
+      "blocks": {
+        "row_hmcmUK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Woven_Objects_Book.png",
+            "caption": "Book",
+            "heading": "Ten Mysterious Woven Animist",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Buy Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_hmcmUK"
+      ],
       "settings": {
-        "heading": "Questions or comments? Get in touch and we'll be happy to help.",
-        "heading_size": "h2",
-        "color_scheme": "scheme-1",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_gYktQQ": {
+      "type": "multirow",
+      "blocks": {
+        "row_CLp8pK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Lao_Traditional_Weaving_Equipment-Printing_Ebook.png",
+            "caption": "Book",
+            "heading": "Lao Traditional Weaving Equipment",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Buy Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_CLp8pK"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_xnd8HL": {
+      "type": "multirow",
+      "blocks": {
+        "row_iNym9H": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Khang_book.png",
+            "caption": "Book",
+            "heading": "Sinh and Lao Women",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Buy Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_iNym9H"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -37,7 +154,9 @@
   },
   "order": [
     "main",
-    "image_banner",
-    "form"
+    "image_banner_NQnN9X",
+    "multirow_WaTeNL",
+    "multirow_gYktQQ",
+    "multirow_xnd8HL"
   ]
 }
