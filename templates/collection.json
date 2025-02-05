@@ -18,34 +18,13 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_8XpVVm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7a7z6z": {
-          "type": "heading",
-          "settings": {
-            "heading": "All Products",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_7a7z6z"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
@@ -73,7 +52,6 @@
   },
   "order": [
     "custom_liquid_6HmXww",
-    "rich_text_8XpVVm",
     "banner",
     "product-grid"
   ]
