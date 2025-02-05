@@ -21,7 +21,7 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        "h2 {text-align: center;}"
+        ".collection-hero__title {text-align: center;}"
       ],
       "settings": {
         "show_collection_description": false,
