@@ -19,27 +19,17 @@
     },
     "custom_liquid_yQL7Dd": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\">\n    <h2 style=\"color: #333;\">Our Location</h2>\n    <div style=\"width: 400px; height: 300px; margin: 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border: 5px solid white;\">\n        <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3493.4651163930594!2d102.59863047517887!3d17.984250083008305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469001c68c357%3A0x74190dfecd59a811!2sKhang!5e1!3m2!1sen!2sla!4v1738916372751!5m2!1sen!2sla\" \n        style=\"width: 100%; height: 100%; border: 0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n    </div>\n</div>",
+        "custom_liquid": "<div style=\"text-align: center; font-family: Arial, sans-serif;\">\n    <h2 style=\"color: #333; margin-bottom: 10px;\">📍 Our Location</h2>\n    \n    <div style=\"width: 400px; height: 300px; margin: 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border: 5px solid white;\">\n        <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3493.4651163930594!2d102.59863047517887!3d17.984250083008305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469001c68c357%3A0x74190dfecd59a811!2sKhang!5e1!3m2!1sen!2sla!4v1738916372751!5m2!1sen!2sla\" \n        style=\"width: 100%; height: 100%; border: 0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n    </div>\n\n    <div style=\"margin-top: 15px; font-size: 16px; color: #555;\">\n        \n        <p> <a href=\"mailto:Khang.lao.office@gmail.com\" style=\"color: black; text-decoration: none;\">Khang.lao.office@gmail.com</a></p>\n      \n      <p> <a href=\"tel:02055454588\" style=\"color: black; text-decoration: none;\">+85620 55 454 588</a></p>\n    </div>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "contact_form_aMEUy9": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "custom_liquid_yQL7Dd",
-    "contact_form_aMEUy9"
+    "custom_liquid_yQL7Dd"
   ]
 }
