@@ -16,19 +16,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "custom_liquid_F8MFLz": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n  \n  .topic {\n    background-color: #780852;\n    color: white; /* This makes the text white */\n    padding: 70px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100px;\n    text-align: center;\n}\n\n.topic h1 {\n    color: inherit; /* Ensures it takes white from the parent */\n}\n\n    \n    .gallery {\n    padding: 50px;\n    display: flex;\n    box-shadow: inset;\n    }\n  \n\n    .galleryItem {\n    flex: 1;\n    padding: 30px;\n    }\n\n    .galleryImg {\n    width: 100%;\n    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */\n        max-height: 600px; /* Limit the height */\n    }\n\n  @media screen and (max-width: 640px) {\n    .gallery {\n        flex-direction: column; /* Stack images vertically */\n        align-items: center; /* Center items */\n    }\n\n    .galleryItem {\n        width: 100%; /* Make each item take full width */\n        text-align: center;\n    }\n\n    .galleryImg {\n        width: 80%; /* Adjust width */\n        max-height: 600px;\n        object-fit: cover;\n    }\n}\n\n</style>\n\n</head>\n<body>\n    <div class=\"topic\">\n        <h1>Media</h1>\n    </div>\n\n    <div class=\"gallery\">\n        <div class=\"galleryItem\">\n            <h2 class=\"galleryTitle\">Lao Fashion Week 2023</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Vientiane_Times_2023_9_3.jpg?v=1738660189\"\n                alt=\"\" class=\"galleryImg\">\n        </div>\n        <div class=\"galleryItem\">\n          <h2 class=\"galleryTitle\">Khang X LFW 2023</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Vientiane_Times_2023_9_2.jpg?v=1738660189\"\n                alt=\"\" class=\"galleryImg\">\n        </div>\n        <div class=\"galleryItem\">\n            <h2 class=\"galleryTitle\">Laos' Textile Production</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Vientiane_Times_2023_9_1.jpg?v=1738660189\"\n                alt=\"\" class=\"galleryImg\">\n        </div>\n    </div>\n\n    </div>\n    <div class=\"gallery\">\n        <div class=\"galleryItem\">\n            <h2 class=\"galleryTitle\">Khang Textile Library</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Khang_Textile_Library.jpg?v=1738660564\"\n                alt=\"\" class=\"galleryImg\">\n        </div>\n        <div class=\"galleryItem\">\n           <h2 class=\"galleryTitle\">Lao Textile Photo Contest</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Lao_Textile_Photo_Contest.jpg?v=1738660564\"\n                alt=\"\" class=\"galleryImg\">\n           \n        </div>\n        <div class=\"galleryItem\">\n            <h2 class=\"galleryTitle\">Khang X ASEAN Texttile</h2>\n            <img src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Vientiane_Times_2017.jpg?v=1738660189\"\n                alt=\"\" class=\"galleryImg\">\n        </div>\n    </div>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
-    "main",
-    "custom_liquid_F8MFLz"
+    "main"
   ]
 }
