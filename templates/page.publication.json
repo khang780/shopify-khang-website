@@ -38,7 +38,7 @@
         "heading_JGYJU9": {
           "type": "heading",
           "settings": {
-            "heading": "Book",
+            "heading": "e-Book",
             "heading_size": "h1"
           }
         },
@@ -53,7 +53,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy Now",
-            "button_link": "",
+            "button_link": "https://khang.art/products/ten-mysterious-woven-animist-objects?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
             "button_style_secondary": false
           }
         }
@@ -85,7 +85,7 @@
         "heading_qQXVYi": {
           "type": "heading",
           "settings": {
-            "heading": "Book",
+            "heading": "e-Book",
             "heading_size": "h1"
           }
         },
