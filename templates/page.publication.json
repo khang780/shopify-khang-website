@@ -173,6 +173,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_79NW87": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_89P6Yg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Book",
+            "heading_size": "h1"
+          }
+        },
+        "text_MpxAAF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Four Origins of Naga in Lao Textiles</p><p>By Viengkham Nanthavongdouangsy</p>",
+            "text_style": "body"
+          }
+        },
+        "button_yqD3Uc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "https://khang.art/products/lao-traditional-weaving-equipment?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_89P6Yg",
+        "text_MpxAAF",
+        "button_yqD3Uc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Four_Origins_of_Naga_in_Lao_Textiles.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "custom_liquid_xQNQMG": {
       "type": "custom-liquid",
       "disabled": true,
@@ -187,9 +234,10 @@
   "order": [
     "main",
     "image_banner_Qf4jM9",
+    "image_with_text_79NW87",
+    "image_with_text_cLcEab",
     "image_with_text_QEY4tN",
     "image_with_text_BjxjnL",
-    "image_with_text_cLcEab",
     "custom_liquid_xQNQMG"
   ]
 }
