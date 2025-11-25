@@ -22,12 +22,10 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "disabled": true,
           "settings": {}
         },
         "buttons": {
           "type": "buttons",
-          "disabled": true,
           "settings": {}
         }
       },
@@ -35,7 +33,6 @@
         "subtotal",
         "buttons"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "padding_top": 40,
