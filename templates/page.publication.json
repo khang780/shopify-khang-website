@@ -9,6 +9,10 @@
  */
 {
   "sections": {
+    "1765602435da8d658d": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -18,6 +22,7 @@
     },
     "image_banner_Qf4jM9": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Publication_cover.jpg",
         "image_overlay_opacity": 0,
@@ -157,6 +162,7 @@
         "text_tQNJkk",
         "button_9DM9Ac"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Woven_Objects_Book.png",
         "height": "adapt",
@@ -204,6 +210,7 @@
         "text_cLcTWa",
         "button_Mxt7kg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Khang_book.png",
         "height": "adapt",
@@ -232,6 +239,7 @@
     }
   },
   "order": [
+    "1765602435da8d658d",
     "main",
     "image_banner_Qf4jM9",
     "image_with_text_79NW87",
