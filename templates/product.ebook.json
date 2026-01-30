@@ -88,6 +88,7 @@
     },
     "quick-order-list": {
       "type": "quick-order-list",
+      "custom_css": [],
       "settings": {
         "show_image": true,
         "show_sku": true,

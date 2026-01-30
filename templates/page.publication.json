@@ -37,143 +37,218 @@
         "show_text_below": true
       }
     },
-    "image_with_text_79NW87": {
-      "type": "image-with-text",
+    "featured_product_CRpeQi": {
+      "type": "featured-product",
       "blocks": {
-        "heading_89P6Yg": {
-          "type": "heading",
+        "text_p8Wnan": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "e-Book",
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_bcegNW": {
+          "type": "title",
+          "settings": {
             "heading_size": "h1"
           }
         },
-        "text_MpxAAF": {
-          "type": "text",
+        "price_hY9Ebb": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_EWRmei": {
+          "type": "variant_picker",
           "settings": {
-            "text": "<p>Threads of Life - The Journey of A Lao Weaver</p><p>MEMOIR: Viengkham Nanthavongdouangsy</p>",
-            "text_style": "body"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
-        "button_yqD3Uc": {
-          "type": "button",
+        "quantity_selector_egMrpW": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_ibWRfd": {
+          "type": "buy_buttons",
           "settings": {
-            "button_label": "Add to cart",
-            "button_link": "https://khang.art/products/four-origins-of-naga-in-lao-textiles?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-            "button_style_secondary": false
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_mUk47x": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "heading_89P6Yg",
-        "text_MpxAAF",
-        "button_yqD3Uc"
+        "text_p8Wnan",
+        "title_bcegNW",
+        "price_hY9Ebb",
+        "variant_picker_EWRmei",
+        "quantity_selector_egMrpW",
+        "buy_buttons_ibWRfd",
+        "share_mUk47x"
       ],
+      "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Cover_update.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "product": "threads-of-life-the-journey-of-a-lao-weaver",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "image_with_text_rm7JWX": {
-      "type": "image-with-text",
+    "featured_product_8GHqep": {
+      "type": "featured-product",
       "blocks": {
-        "heading_fB6jHE": {
-          "type": "heading",
+        "text_kwtDx9": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "e-Book",
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_ADjA8z": {
+          "type": "title",
+          "settings": {
             "heading_size": "h1"
           }
         },
-        "text_NhmkQT": {
-          "type": "text",
+        "price_xx3jJC": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_8z78tg": {
+          "type": "variant_picker",
           "settings": {
-            "text": "<p>Four Origins of Naga in Lao Textiles</p><p>By Viengkham Nanthavongdouangsy</p>",
-            "text_style": "body"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
-        "button_WzFFHk": {
-          "type": "button",
+        "quantity_selector_VrBjKg": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_mn7WcH": {
+          "type": "buy_buttons",
           "settings": {
-            "button_label": "Add to cart",
-            "button_link": "https://khang.art/products/four-origins-of-naga-in-lao-textiles?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-            "button_style_secondary": false
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_bhdQKK": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "heading_fB6jHE",
-        "text_NhmkQT",
-        "button_WzFFHk"
+        "text_kwtDx9",
+        "title_ADjA8z",
+        "price_xx3jJC",
+        "variant_picker_8z78tg",
+        "quantity_selector_VrBjKg",
+        "buy_buttons_mn7WcH",
+        "share_bhdQKK"
       ],
+      "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Four_Origins_of_Naga_in_Lao_Textiles.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "product": "four-origins-of-naga-in-lao-textiles",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "image_with_text_cLcEab": {
-      "type": "image-with-text",
+    "featured_product_RrArPn": {
+      "type": "featured-product",
       "blocks": {
-        "heading_PgHWMN": {
-          "type": "heading",
+        "text_tiNUJb": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "e-Book",
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_inQ7tF": {
+          "type": "title",
+          "settings": {
             "heading_size": "h1"
           }
         },
-        "text_ihxHg6": {
-          "type": "text",
+        "price_Wcx7e6": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_UABq9P": {
+          "type": "variant_picker",
           "settings": {
-            "text": "<p>Lao Traditional Weaving Equipment</p><p>By Viengkham Nanthavongdouangsy</p>",
-            "text_style": "body"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
-        "button_9FPPmA": {
-          "type": "button",
+        "quantity_selector_AzWXYR": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_QJmDdF": {
+          "type": "buy_buttons",
           "settings": {
-            "button_label": "Add to cart",
-            "button_link": "https://khang.art/products/lao-traditional-weaving-equipment?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
-            "button_style_secondary": false
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_wbzXVW": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "heading_PgHWMN",
-        "text_ihxHg6",
-        "button_9FPPmA"
+        "text_tiNUJb",
+        "title_inQ7tF",
+        "price_Wcx7e6",
+        "variant_picker_UABq9P",
+        "quantity_selector_AzWXYR",
+        "buy_buttons_QJmDdF",
+        "share_wbzXVW"
       ],
+      "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Lao_Traditional_Weaving_Equipment-Printing_Ebook.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "product": "lao-traditional-weaving-equipment",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -289,9 +364,9 @@
     "1765602435da8d658d",
     "main",
     "image_banner_Qf4jM9",
-    "image_with_text_79NW87",
-    "image_with_text_rm7JWX",
-    "image_with_text_cLcEab",
+    "featured_product_CRpeQi",
+    "featured_product_8GHqep",
+    "featured_product_RrArPn",
     "image_with_text_QEY4tN",
     "image_with_text_BjxjnL",
     "custom_liquid_xQNQMG"
