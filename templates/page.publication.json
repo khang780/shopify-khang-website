@@ -93,6 +93,7 @@
         "buy_buttons_ibWRfd",
         "share_mUk47x"
       ],
+      "disabled": true,
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "threads-of-life-the-journey-of-a-lao-weaver",
@@ -165,6 +166,7 @@
         "buy_buttons_mn7WcH",
         "share_bhdQKK"
       ],
+      "disabled": true,
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "four-origins-of-naga-in-lao-textiles",

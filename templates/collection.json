@@ -20,6 +20,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         ".collection-hero__title {text-align: center;}"
       ],
