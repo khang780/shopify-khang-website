@@ -165,7 +165,7 @@
         "custom_liquid_kV6MBR": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Four_origins_of_Naga_in_Lao_Textiles_pdf.io.pdf?v=1780371061\" class=\"button\">Sample Books</a>"
+            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Four_origins_of_Naga_in_Lao_Textiles_pdf.io.pdf?v=1780371061\"\n   class=\"button\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\">\n  Sample Books\n</a>"
           }
         }
       },
@@ -244,7 +244,7 @@
         "custom_liquid_fn63j8": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Lao_Traditional_weaving_equipment.pdf?v=1780370930\" class=\"button\">Sample Books</a>"
+            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Lao_Traditional_weaving_equipment.pdf?v=1780370930\"\n   class=\"button\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\">\n  Sample Books\n</a>"
           }
         }
       },
