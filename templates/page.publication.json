@@ -86,7 +86,7 @@
         "custom_liquid_FeCN36": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Threads_of_Life.pdf?v=1780370909\" class=\"button\">Sample Books</a>"
+            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Threads_of_Life.pdf?v=1780370909\"\n   class=\"button\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\">\n  Sample Books\n</a>"
           }
         }
       },
