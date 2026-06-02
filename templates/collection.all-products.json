@@ -1,0 +1,75 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_6HmXww": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "#new .row {display: flex; flex-direction: row; flex-wrap: nowrap; width: 100%; margin: 0; padding: 0;}",
+        "#new .one {width: 33.333%; flex: 0 0 33.333%; padding: 0; position: relative;}",
+        "#new .one img {width: 100%; height: auto; display: block;}"
+      ],
+      "settings": {
+        "custom_liquid": "<section id=\"new\" class=\"w-100\">\n  <a href=\"https://khang.art/collections/all\" class=\"d-block text-decoration-none\">\n    <div class=\"row p-0 m-0\">\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Khang_black_scarf.jpg?v=1738662306\"\n             alt=\"Black Scarf\">\n      </div>\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Khang_purple_shirt.jpg?v=1738662299\"\n             alt=\"Purple Shirt\">\n\n        <div class=\"details\">\n          <h1>Products</h1>\n        </div>\n      </div>\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Gold_Pillow_04.jpg?v=1738662293\"\n             alt=\"Home Textile\">\n      </div>\n\n    </div>\n  </a>\n</section>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        ".collection-hero__title {text-align: center;}"
+      ],
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 32,
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_3PR6WU": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"features\">\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/shipping.png?v=1738642432\" alt=\"Free Shipping\">\n            <span class=\"featureTitle\">FREE SHIPPING</span>\n            <span class=\"featureDesc\">Free shipping in Laos on all orders. Free worldwide shipping on orders over $150.</span>\n        </div>\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/return.png?v=1738642433\" alt=\"7 Days Return\">\n            <span class=\"featureTitle\">7 DAYS RETURN</span>\n            <span class=\"featureDesc\">Returns accepted within 7 days for unused and undamaged items.</span>\n        </div>\n        <div class=\"feature\">\n            <img class=\"featureIcon\" src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/contact.png?v=1738642433\" alt=\"Contact Us\">\n            <span class=\"featureTitle\">CONTACT US!</span>\n            <span class=\"featureDesc\">Keep in touch via email and support system.</span>\n        </div>\n    </div>\n<style>\n  .features {\n  background-color: #f0f0f0; \n  clip-path: polygon(0 0, 100% 10%, 100% 85%, 0% 100%);\n  overflow: hidden;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 10px; /* Adds spacing between features */\n  padding: 50px;\n  flex-wrap: wrap; /* Ensures wrapping on smaller screens */\n}\n\n.features {\n  margin-top: -50px; /* Adjust this value to control how much it overlaps */\n  padding-top: 50px; /* Optional: This helps to maintain the content positioning */\npadding-bottom: 50px; \n}\n\n.feature {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  text-align: center;\n  width: 30%; /* Ensures consistent sizing */\n  min-width: 200px; /* Prevents features from getting too small */\n}\n\n.featureIcon {\n  width: 50px;\n  height: 50px;\n}\n\n.featureTitle {\n  font-size: 20px;\n  font-weight: 600;\n  margin: 20px;\n}\n\n.featureDesc {\n  color: gray;\n  width: 80%;\n  height: 100px;\n}\n  \n  @media screen and (max-width:640px) {\n  .slider{\n    clip-path: none;\n  }\n\n  .sliderImg{\n    width: 90%;\n  }\n\n  .sliderBg{\n    width: 100%;\n    height: 100%;\n  }\n\n  .sliderTitle{\n    position: absolute;\n    font-size: 28px;\n  }\n\n  .sliderPrice{\n    top: unset;\n    bottom: -50;\n    left: 0;\n    background-color: lightgrey;\n  }\n\n  .buyButton{\n    display: none;\n  }\n\n  .features{\n    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);\nmargin-top: 0;\n    padding-top: 80px;\n    padding-left: 10px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    gap: 50px;\n  }\n  \n  .feature {\n    width: 110%; /* Ensures consistent sizing */\n    min-width: 200px; /* Prevents features from getting too small */\n  }\n  \n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_6HmXww",
+    "banner",
+    "product-grid",
+    "custom_liquid_3PR6WU"
+  ]
+}
