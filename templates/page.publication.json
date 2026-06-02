@@ -226,6 +226,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "custom_liquid_FeCN36": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<a href=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Sample_Lao_Traditional_weaving_equipment.pdf?v=1780370930\" class=\"button\">Sample Books</a>"
+          }
         }
       },
       "block_order": [
@@ -235,7 +241,8 @@
         "variant_picker_UABq9P",
         "quantity_selector_AzWXYR",
         "buy_buttons_QJmDdF",
-        "share_wbzXVW"
+        "share_wbzXVW",
+        "custom_liquid_FeCN36"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
