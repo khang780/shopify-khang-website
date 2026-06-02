@@ -12,8 +12,7 @@
     "custom_liquid_6HmXww": {
       "type": "custom-liquid",
       "custom_css": [
-        "#new .row {display: flex; flex-wrap: nowrap;}",
-        "#new .one {flex: 1;}"
+        "#new .one img {width: 100%; height: 100%; object-fit: cover; display: block; /* removes bottom whitespace */}"
       ],
       "settings": {
         "custom_liquid": "<section id=\"new\" class=\"w-100\">\n  <a href=\"https://khang.art/collections/all\" class=\"d-block text-decoration-none\">\n    <div class=\"row p-0 m-0\">\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Khang_black_scarf.jpg?v=1738662306\"\n             alt=\"Black Scarf\">\n      </div>\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Khang_purple_shirt.jpg?v=1738662299\"\n             alt=\"Purple Shirt\">\n\n        <div class=\"details\">\n          <h1>Products</h1>\n        </div>\n      </div>\n\n      <div class=\"one col-lg-4 col-md-12 col-12 p-0\">\n        <img class=\"img-fluid\"\n             src=\"https://cdn.shopify.com/s/files/1/0608/4837/3878/files/Gold_Pillow_04.jpg?v=1738662293\"\n             alt=\"Home Textile\">\n      </div>\n\n    </div>\n  </a>\n</section>",
